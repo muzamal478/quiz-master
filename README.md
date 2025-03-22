@@ -26,6 +26,8 @@ To run this project locally, follow these steps:
     ```bash
     git clone https://github.com/muzamal478/quiz-master.git
     ```
+Your site is live at [https://muzamal478.github.io/quiz-master/](https://muzamal478.github.io/quiz-master/).
+
 2. Navigate into the project directory:
     ```bash
     cd quiz-master
