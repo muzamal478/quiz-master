@@ -1,0 +1,366 @@
+{
+    "JavaScript": [
+        {
+            "question": "Which keyword is used to declare a constant variable in JavaScript?",
+            "options": ["var", "let", "const", "static"],
+            "correctAnswer": "const"
+        },
+        {
+            "question": "What will be the output of `typeof NaN` in JavaScript?",
+            "options": ["Number", "Undefined", "Object", "Null"],
+            "correctAnswer": "Number"
+        },
+        {
+            "question": "Which method is used to parse JSON data in JavaScript?",
+            "options": ["JSON.parse()", "JSON.stringify()", "JSON.toObject()", "JSON.decode()"],
+            "correctAnswer": "JSON.parse()"
+        },
+        {
+            "question": "Which symbol is used for single-line comments in JavaScript?",
+            "options": ["//", "/* */", "#", "--"],
+            "correctAnswer": "//"
+        },
+        {
+            "question": "Which operator is used to check both value and type equality in JavaScript?",
+            "options": ["==", "===", "!=", "<>"],
+            "correctAnswer": "==="
+        },
+        {
+            "question": "Which function is used to convert a string into an integer in JavaScript?",
+            "options": ["parseInt()", "parseFloat()", "Number()", "String()"],
+            "correctAnswer": "parseInt()"
+        },
+        {
+            "question": "Which of the following is NOT a JavaScript framework?",
+            "options": ["React", "Vue", "Django", "Angular"],
+            "correctAnswer": "Django"
+        },
+        {
+            "question": "What does the `this` keyword refer to in JavaScript?",
+            "options": ["Current function", "Global object", "Current object", "Window object"],
+            "correctAnswer": "Current object"
+        },
+        {
+            "question": "Which function is used to execute a function after a specified time in JavaScript?",
+            "options": ["setTimeout()", "setInterval()", "delay()", "wait()"],
+            "correctAnswer": "setTimeout()"
+        },
+        {
+            "question": "Which array method is used to remove the last element of an array?",
+            "options": ["pop()", "push()", "shift()", "splice()"],
+            "correctAnswer": "pop()"
+        }
+    ],
+    "HTML": [
+        {
+            "question": "Which tag is used to define an unordered list in HTML?",
+            "options": ["ul", "ol", "li", "list"],
+            "correctAnswer": "ul"
+        },
+        {
+            "question": "Which tag is used to create a hyperlink in HTML?",
+            "options": ["a", "link", "href", "url"],
+            "correctAnswer": "a"
+        },
+        {
+            "question": "Which attribute is used to provide a unique identity to an HTML element?",
+            "options": ["class", "id", "name", "style"],
+            "correctAnswer": "id"
+        },
+        {
+            "question": "Which tag is used to embed JavaScript code in an HTML document?",
+            "options": ["javascript", "script", "js", "code"],
+            "correctAnswer": "script"
+        },
+        {
+            "question": "Which tag is used to define a table row in HTML?",
+            "options": ["td", "tr", "th", "table"],
+            "correctAnswer": "tr"
+        },
+        {
+            "question": "Which doctype declaration is correct for HTML5?",
+            "options": ["!DOCTYPE html", "!DOCTYPE HTML5", "!DOCTYPE HTML PUBLIC", "!DOCTYPE XHTML"],
+            "correctAnswer": "!DOCTYPE html"
+        },
+        {
+            "question": "Which tag is used to define a form in HTML?",
+            "options": ["form", "input", "fieldset", "button"],
+            "correctAnswer": "form"
+        },
+        {
+            "question": "Which tag is used to insert an image in an HTML page?",
+            "options": ["img", "picture", "image", "src"],
+            "correctAnswer": "img"
+        },
+        {
+            "question": "Which HTML attribute specifies the alternative text for an image?",
+            "options": ["alt", "title", "src", "description"],
+            "correctAnswer": "alt"
+        },
+        {
+            "question": "Which element is used to define important text in HTML?",
+            "options": ["b", "i", "strong", "em"],
+            "correctAnswer": "strong"
+        }
+    ],
+    "CSS": [
+        {
+            "question": "Which property is used to change text color in CSS?",
+            "options": ["font-color", "text-color", "color", "background-color"],
+            "correctAnswer": "color"
+        },
+        {
+            "question": "Which CSS property is used to change background color?",
+            "options": ["background", "color", "bgcolor", "background-color"],
+            "correctAnswer": "background-color"
+        },
+        {
+            "question": "Which unit is NOT relative in CSS?",
+            "options": ["em", "rem", "px", "%"],
+            "correctAnswer": "px"
+        },
+        {
+            "question": "Which CSS property controls text size?",
+            "options": ["font-size", "text-size", "size", "text-style"],
+            "correctAnswer": "font-size"
+        },
+        {
+            "question": "Which property is used for making text bold?",
+            "options": ["font-style", "font-weight", "text-bold", "bold"],
+            "correctAnswer": "font-weight"
+        },
+        {
+            "question": "Which CSS property is used to create rounded corners?",
+            "options": ["border-style", "border-radius", "corner-style", "round-corner"],
+            "correctAnswer": "border-radius"
+        },
+        {
+            "question": "Which CSS display value makes an element completely disappear?",
+            "options": ["visibility: hidden", "display: none", "opacity: 0", "hidden"],
+            "correctAnswer": "display: none"
+        },
+        {
+            "question": "Which property is used for setting an image as a background?",
+            "options": ["background-image", "img-src", "background", "image"],
+            "correctAnswer": "background-image"
+        },
+        {
+            "question": "Which pseudo-class is used for mouse hover effects?",
+            "options": [":hover", ":active", ":focus", ":visited"],
+            "correctAnswer": ":hover"
+        },
+        {
+            "question": "Which CSS property is used to set space between lines of text?",
+            "options": ["line-height", "spacing", "text-gap", "letter-spacing"],
+            "correctAnswer": "line-height"
+        }
+    ],
+    "Python": [
+        {
+            "question": "Which keyword is used to define a function in Python?",
+            "options": ["func", "def", "define", "lambda"],
+            "correctAnswer": "def"
+        },
+        {
+            "question": "Which data type is mutable in Python?",
+            "options": ["Tuple", "String", "List", "Integer"],
+            "correctAnswer": "List"
+        },
+        {
+            "question": "What is the output of `2 ** 3` in Python?",
+            "options": ["6", "8", "9", "16"],
+            "correctAnswer": "8"
+        },
+        {
+            "question": "Which function is used to take user input in Python?",
+            "options": ["cin", "input()", "scanf()", "get()"],
+            "correctAnswer": "input()"
+        },
+        {
+            "question": "What will `print(type([]))` output?",
+            "options": ["<class 'list'>", "<class 'tuple'>", "<class 'dict'>", "<class 'array'>"],
+            "correctAnswer": "<class 'list'>"
+        },
+        {
+            "question": "Which module is used for working with JSON data in Python?",
+            "options": ["os", "sys", "json", "data"],
+            "correctAnswer": "json"
+        },
+        {
+            "question": "Which of the following is NOT a Python loop?",
+            "options": ["for", "while", "do-while", "None"],
+            "correctAnswer": "do-while"
+        },
+        {
+            "question": "Which symbol is used for single-line comments in Python?",
+            "options": ["//", "#", "/* */", "--"],
+            "correctAnswer": "#"
+        },
+        {
+            "question": "What will `bool([])` return?",
+            "options": ["True", "False", "None", "Error"],
+            "correctAnswer": "False"
+        },
+        {
+            "question": "Which function is used to open a file in Python?",
+            "options": ["open()", "read()", "write()", "load()"],
+            "correctAnswer": "open()"
+        }
+    ],
+    "Cpp": [
+        {
+            "question": "Which operator is used for pointer dereferencing in C++?",
+            "options": ["&", "*", "->", "::"],
+            "correctAnswer": "*"
+        },
+        {
+            "question": "Which keyword is used to define a class in C++?",
+            "options": ["struct", "class", "define", "object"],
+            "correctAnswer": "class"
+        },
+        {
+            "question": "Which function is the entry point of a C++ program?",
+            "options": ["start()", "main()", "init()", "run()"],
+            "correctAnswer": "main()"
+        },
+        {
+            "question": "Which header file is required for input/output operations in C++?",
+            "options": ["stdio.h", "iostream", "stdlib.h", "string"],
+            "correctAnswer": "iostream"
+        },
+        {
+            "question": "Which keyword is used to dynamically allocate memory in C++?",
+            "options": ["malloc", "alloc", "new", "mem"],
+            "correctAnswer": "new"
+        },
+        {
+            "question": "What is the extension of a C++ source file?",
+            "options": [".c", ".cpp", ".cc", ".hpp"],
+            "correctAnswer": ".cpp"
+        },
+        {
+            "question": "Which loop is used when the number of iterations is known?",
+            "options": ["while", "do-while", "for", "goto"],
+            "correctAnswer": "for"
+        },
+        {
+            "question": "Which access specifier allows access from anywhere?",
+            "options": ["private", "protected", "public", "internal"],
+            "correctAnswer": "public"
+        },
+        {
+            "question": "Which of the following is NOT an OOP concept?",
+            "options": ["Encapsulation", "Abstraction", "Polymorphism", "Compilation"],
+            "correctAnswer": "Compilation"
+        },
+        {
+            "question": "Which function is used to display output in C++?",
+            "options": ["print()", "cout", "display()", "printf()"],
+            "correctAnswer": "cout"
+        }
+    ],
+    "Java": [
+        {
+            "question": "Which keyword is used to create a subclass in Java?",
+            "options": ["subclass", "extends", "inherits", "super"],
+            "correctAnswer": "extends"
+        },
+        {
+            "question": "Which function is used to get input from the user in Java?",
+            "options": ["Scanner.next()", "cin", "get()", "read()"],
+            "correctAnswer": "Scanner.next()"
+        },
+        {
+            "question": "Which data type is used to store true or false in Java?",
+            "options": ["bit", "boolean", "bool", "bitset"],
+            "correctAnswer": "boolean"
+        },
+        {
+            "question": "Which access modifier is the most restrictive in Java?",
+            "options": ["public", "protected", "private", "default"],
+            "correctAnswer": "private"
+        },
+        {
+            "question": "Which operator is used for string concatenation in Java?",
+            "options": ["&", "+", "||", "."],
+            "correctAnswer": "+"
+        },
+        {
+            "question": "Which class is used to create threads in Java?",
+            "options": ["Runnable", "Thread", "Process", "Task"],
+            "correctAnswer": "Thread"
+        },
+        {
+            "question": "Which keyword is used to define a constant variable in Java?",
+            "options": ["const", "final", "static", "immutable"],
+            "correctAnswer": "final"
+        },
+        {
+            "question": "Which method is used to compare two strings in Java?",
+            "options": ["equals()", "compare()", "==", "match()"],
+            "correctAnswer": "equals()"
+        },
+        {
+            "question": "Which Java data type is used for decimal numbers?",
+            "options": ["int", "double", "float", "decimal"],
+            "correctAnswer": "double"
+        },
+        {
+            "question": "Which Java package is imported by default?",
+            "options": ["java.lang", "java.util", "java.io", "java.net"],
+            "correctAnswer": "java.lang"
+        }
+    ],
+    "SQL": [
+        {
+            "question": "Which SQL command is used to retrieve data?",
+            "options": ["FETCH", "SELECT", "GET", "RETRIEVE"],
+            "correctAnswer": "SELECT"
+        },
+        {
+            "question": "Which SQL statement is used to remove all records from a table?",
+            "options": ["DELETE", "REMOVE", "DROP", "TRUNCATE"],
+            "correctAnswer": "TRUNCATE"
+        },
+        {
+            "question": "Which SQL clause is used to filter results?",
+            "options": ["ORDER BY", "GROUP BY", "WHERE", "HAVING"],
+            "correctAnswer": "WHERE"
+        },
+        {
+            "question": "Which SQL statement is used to insert a new record?",
+            "options": ["ADD", "INSERT INTO", "NEW", "APPEND"],
+            "correctAnswer": "INSERT INTO"
+        },
+        {
+            "question": "Which SQL keyword is used to sort results?",
+            "options": ["GROUP BY", "ORDER BY", "SORT", "FILTER"],
+            "correctAnswer": "ORDER BY"
+        },
+        {
+            "question": "Which function is used to count rows in SQL?",
+            "options": ["COUNT()", "SUM()", "TOTAL()", "NUMBER()"],
+            "correctAnswer": "COUNT()"
+        },
+        {
+            "question": "Which SQL statement is used to modify existing records?",
+            "options": ["ALTER", "MODIFY", "UPDATE", "CHANGE"],
+            "correctAnswer": "UPDATE"
+        },
+        {
+            "question": "Which SQL clause is used to group results?",
+            "options": ["GROUP BY", "ORDER BY", "WHERE", "FILTER"],
+            "correctAnswer": "GROUP BY"
+        },
+        {
+            "question": "Which SQL statement is used to delete a table?",
+            "options": ["DROP TABLE", "DELETE TABLE", "REMOVE TABLE", "CLEAR TABLE"],
+            "correctAnswer": "DROP TABLE"
+        },
+        {
+            "question": "Which SQL function returns the highest value?",
+            "options": ["MAX()", "HIGHEST()", "TOP()", "GREATEST()"],
+            "correctAnswer": "MAX()"
+        }
+    ]
+}
